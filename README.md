@@ -1,16 +1,16 @@
-### Hi there 👋
+ ###                            Elad Vaknin
+ #
+ 
+Software developer, during my second year of B.Sc in Computer Science and Math.
 
-<!--
-**EladVaknin/EladVaknin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This profile contains : 
 
-Here are some ideas to get you started:
+:dart:  Projects and tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:dart: Implementations and summaries.
+
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EladVaknin&show_icons=true&theme=react&layout=compact&line_height=20" />
+</p>
